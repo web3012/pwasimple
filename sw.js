@@ -8,7 +8,7 @@ function hndlEventInstall(evt) {
     async function cacheStaticFiles() {
         const files = [
             './',
-            './demo.pwa.json',
+            './manifest.json',
             './icon.png',
             './index.html',
             './sw.js',
