@@ -1,3 +1,5 @@
+Минималистичное PWA приложение. Можно использовать для тестов или как старт для визитки.
+
 echo "# pwasimple" >> README.md
 git init
 git add README.md
